@@ -20,7 +20,7 @@ public class AnimationPanel extends JComponent implements Runnable {
 	int skiersOnSlope;
 	int skiersOnLift;
 	LinkedBlockingQueue waitQueue; 
-    int skiDotSize;
+    	int skiDotSize;
 
 	public AnimationPanel() {
 	}
